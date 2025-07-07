@@ -75,18 +75,6 @@ Backend (optional): Spring Boot, Swagger (OpenAPI 3)
 State Management: React useState, useMemo
 Validation: Custom rules in JS
 
-📁 Folder Structure
-css
-Copy
-Edit
-src/
-├── App.js              # Main React App
-├── TransactionTable.js # Input table
-├── PositionTable.js    # Output view
-├── utils/              # Validation + Position calculator
-📸 Demo Screenshot
-Replace with your own screenshot:
-
 📮 API Integration Points
 Event	Triggered When	Method	Endpoint
 Add/Edit txn	On Save/Add Click	POST	/api/positions
